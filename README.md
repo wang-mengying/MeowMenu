@@ -29,14 +29,14 @@
 - [黑椒牛柳](黑椒牛柳.md)
 - [清炒空心菜](清炒空心菜.md)
 
-## 汤
+## 汤&粥
 - [茄汁龙利鱼](茄汁龙利鱼.md)
 - [白菜肉丝年糕汤](白菜肉丝年糕汤.md)，Ref: [日食记](https://m.weibo.cn/3948713134/4429127446870211)
 - [番茄蛋花汤](番茄蛋花汤.md)
 - [酸辣汤](酸辣汤.md)
+- [皮蛋瘦肉粥](皮蛋瘦肉粥.md )
 
 ## 小吃 
 - [鸡腿排（空气炸锅）](鸡腿排（空气炸锅）.md)
-
 
 [![forthebadge cc-by](http://ForTheBadge.com/images/badges/cc-by.svg)](https://creativecommons.org/licenses/by/4.0)
