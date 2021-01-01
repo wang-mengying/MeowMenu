@@ -44,5 +44,6 @@
 ## 小吃 
 - [鸡腿排（空气炸锅）](鸡腿排（空气炸锅）.md)
 - [羊肉串（烤箱）](羊肉串（烤箱）.md)
+- [茶叶蛋](茶叶蛋.md)
 
 [![forthebadge cc-by](http://ForTheBadge.com/images/badges/cc-by.svg)](https://creativecommons.org/licenses/by/4.0)
