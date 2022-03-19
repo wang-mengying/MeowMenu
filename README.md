@@ -2,7 +2,7 @@
 
 ![](cat.png)
 
-[![licensebuttons by](https://licensebuttons.net/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/4.0) [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](#)
+[![licensebuttons by](https://licensebuttons.net/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/4.0) 
 
 ## 面&饭
 - [葱烧鸡烩饭](葱烧鸡烩饭.md)
